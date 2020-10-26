@@ -14,7 +14,7 @@ This script will print all the numbers from 1 to 10 in a random order and can be
 
 0. Clone this repo in your local environment:
 ```
-git clone https://github.com/fabtests/test-tasks.git
+git clone https://github.com/fabzor/adjust-home-task.git
 ```
 
 1. Navigate to the scripts folder:
