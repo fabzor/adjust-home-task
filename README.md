@@ -66,7 +66,7 @@ Here are listed some important server metrics for this specific case, choosing Z
 * Server uptime
 * Disk space
 
-*Practically, one way to monitor these metrics can be Zabbix - most of these are available as prebuilt item types (including SNMP agents) making their implementation easier, so that we are able to focus more on the monitoring/alerting logic.*
+*Practically, one way to monitor these metrics can be configuring a Zabbix server - most of these parameters are available as prebuilt item types (including SNMP agents) making their implementation easier, so that we can focus more on the monitoring/alerting logic.*
 
 * SSL Monitoring: check validity and expiration date of SSL certificates
 
