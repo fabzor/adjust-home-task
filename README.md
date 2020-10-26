@@ -78,6 +78,6 @@ Here are listed some important server metrics for this specific case, choosing Z
 *Practically, process these metrics on Zabbix as a delta type to get them in form of data per second (if we can't fetch them in that form).*
 
 DIFFICULTIES:
-* Collecting alot of data for monitoring can be inefficient; things that should be considered in this regard could be bulk-collecting data before processing it, limiting the size of the logs, understanding what are the actual critical values so that the warning is not triggered too often
+* Collecting alot of data for monitoring can be inefficient; things that should be considered in this regard could be bulk-collecting data before processing it, limiting the size of the logs, understanding what are the actual critical values so that the warnings are not triggered too often
 * Being sure that our monitoring system is actually working with the architecture of our system (e.g. in case of Zabbix, using active agents if the server is hidden behind a firewall)
 
